@@ -18,11 +18,17 @@ This functionality is implemented using "Change" and "Disable" groups, that are 
 
 ![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/51762a43-c0ae-475a-bb17-eca9d70a51d0)  
 
-The result can be seen in the following video: 
+The result can be seen in the following videos: 
+
+Change group:  
+
+https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/fde37be0-bd6c-426b-8e04-d0ab411d46f7  
+
+Disable group:  
+
+https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/9a77661c-b95a-4d25-ae79-b0037f77f1c4
 
 
-
-https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/fde37be0-bd6c-426b-8e04-d0ab411d46f7
 
 
 
