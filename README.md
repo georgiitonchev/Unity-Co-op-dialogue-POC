@@ -27,12 +27,3 @@ https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/fde37
 Disable group:  
 
 https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/9a77661c-b95a-4d25-ae79-b0037f77f1c4
-
-
-
-
-
-The system also features global and local variables for managing the state of the dialogue and the game.  
-
-
-
