@@ -16,6 +16,17 @@ One of the main features of a co-op dialogue is that the response of one of the 
 
 This functionality is implemented using "Change" and "Disable" groups, that are subscribed to a player response event and either change or disable responses for the other player.  
 
-![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/51762a43-c0ae-475a-bb17-eca9d70a51d0)
+![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/51762a43-c0ae-475a-bb17-eca9d70a51d0)  
+
+The result of this can be seen in this video: 
+
+
+
+https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/fde37be0-bd6c-426b-8e04-d0ab411d46f7
+
+
+
+The system also features global and local variables for managing the state of the dialogue and the game.  
+
 
 
