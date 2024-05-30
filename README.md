@@ -12,8 +12,10 @@ The result is a scriptable object with each "node" being its own scriptable obje
 ![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/b4a3f1e1-667e-44db-b358-7118e31a6f7a)  
 
 The sytem features a node based approach, where each node ultimately leads to multiple others based on the **type** of connection.  
-Example NPC and Player response nodes:  
+One of the main features of a co-op dialogue is that the response of one of the players might affect the available responses for the other.
 
-![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/22272577-7aaa-4fe2-9dc8-20d70fac871d)  ![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/92d31bd6-1d98-45fe-9f18-6d0a6096345b)
+This functionality is implemented using "Change" and "Disable" groups, that are subscribed to a player response event and either change or disable responses for the other player.  
+
+![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/51762a43-c0ae-475a-bb17-eca9d70a51d0)
 
 
