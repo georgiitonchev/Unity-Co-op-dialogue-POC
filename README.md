@@ -18,7 +18,7 @@ This functionality is implemented using "Change" and "Disable" groups, that are 
 
 ![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/51762a43-c0ae-475a-bb17-eca9d70a51d0)  
 
-The result can be seen in the following videos: 
+The results can be seen in the following videos: 
 
 Change group:  
 
