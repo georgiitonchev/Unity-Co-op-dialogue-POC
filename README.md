@@ -9,4 +9,9 @@ The file remains in the project's Resources folder and any changes are picked up
 
 The result is a scriptable object with each "node" being its own scriptable object parented to the main dialogue scriptable object.
 
-![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/b4a3f1e1-667e-44db-b358-7118e31a6f7a)
+![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/b4a3f1e1-667e-44db-b358-7118e31a6f7a)  
+
+Example NPC and Player response nodes:  
+![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/22272577-7aaa-4fe2-9dc8-20d70fac871d)  ![image](https://github.com/georgiitonchev/Unity-Co-op-dialogue-POC/assets/16121911/92d31bd6-1d98-45fe-9f18-6d0a6096345b)
+
+
